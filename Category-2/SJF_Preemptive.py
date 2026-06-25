@@ -73,7 +73,7 @@ class SJF_Preemptive:
         print(f"Average Waiting Time   : {total_wt / n:.2f}")
 
 
-# Main
+# Main Section
 scheduler = SJF_Preemptive()
 scheduler.takeInput()
 scheduler.run()
