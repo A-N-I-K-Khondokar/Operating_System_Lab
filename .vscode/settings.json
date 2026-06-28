@@ -1,0 +1,9 @@
+{
+  "cSpell.enable": false,
+  "cSpell.enableFiletypes": [],
+  "[markdown]": {
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false
+  },
+  "extensions.ignoreRecommendations": true
+}
